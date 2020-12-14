@@ -28,7 +28,7 @@ public class StudentController {
 	public String newStudent(@ModelAttribute("student") Student student, Model model) {
 		List<School> schools = schoolService.allSchools();
 		model.addAttribute("schools", schools);
-		return "newStudent.jsp";
+		return "/student/newStudent.jsp";
 	}
 	
 	// Create Student

@@ -24,7 +24,7 @@ public class SchoolController {
 	// New School
 	@RequestMapping("/schools/new")
 	public String newSchool(@ModelAttribute("school") School school, Model model) {
-		return "newSchool.jsp";
+		return "/school/newSchool.jsp";
 	}
 	
 	// Create Student
@@ -45,6 +45,6 @@ public class SchoolController {
 		List<Student> students = school.getStudent();
 		model.addAttribute("school", school);
 		model.addAttribute("students", students);
-		return "/school.jsp";
+		return "/school/school.jsp";
 	}
 }
