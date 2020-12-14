@@ -25,7 +25,7 @@
 				<tbody>
 					<c:forEach items="${students}" var="student">
 						<tr>
-							<td>${student.firstName}"/></td>
+							<td>${student.firstName}"</td>
 							<td>${student.lastName}</td>
 							<td>${student.age}</td>
 						</tr>

@@ -1361,3 +1361,105 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.eclipse.wst.html.ui 1 1 2020-12-13 23:32:02.549
 !MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:05.555
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:05.556
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1b03d582[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:05.556
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.365
+!MESSAGE Boot LS startup time from start to initialized: 1807ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.429
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fVtvacteisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.430
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.430
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.431
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.431
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.431
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fVtvacte => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.439
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.444
+!MESSAGE buffering callback sts4.classpath.fVtvacte onetomanyrelationships false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.445
+!MESSAGE executing callback sts4.classpath.fVtvacte 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:33:07.477
+!MESSAGE executing callback sts4.classpath.fVtvacte SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:20.160
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fVtvacte
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:20.161
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fVtvacte
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:20.161
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:20.162
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fVtvacte => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:28.598
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:28.599
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1b03d582[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=673)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:28.599
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.453
+!MESSAGE Boot LS startup time from start to initialized: 1854ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.528
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.EQNdrRmtisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.529
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.530
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.531
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.531
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.EQNdrRmt => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.532
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.538
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.543
+!MESSAGE buffering callback sts4.classpath.EQNdrRmt onetomanyrelationships false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.544
+!MESSAGE executing callback sts4.classpath.EQNdrRmt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-13 23:34:30.592
+!MESSAGE executing callback sts4.classpath.EQNdrRmt SUCCESS [done]
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-12-13 23:46:57.981
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-12-13 23:46:57.982
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT

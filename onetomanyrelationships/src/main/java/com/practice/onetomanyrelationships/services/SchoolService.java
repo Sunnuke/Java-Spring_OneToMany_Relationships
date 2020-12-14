@@ -4,10 +4,12 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.practice.onetomanyrelationships.models.School;
 import com.practice.onetomanyrelationships.repositories.SchoolRepository;
 
+@Service
 public class SchoolService {
 	
 	@Autowired
