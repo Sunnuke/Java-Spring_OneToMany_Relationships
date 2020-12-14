@@ -33,7 +33,7 @@ public class School {
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     private Date updatedAt;
     
-    @OneToMany(mappedBy="Student", fetch = FetchType.LAZY)
+    @OneToMany(mappedBy="school", fetch = FetchType.LAZY)
     private List<Student> student;
     
 //	Constructors
